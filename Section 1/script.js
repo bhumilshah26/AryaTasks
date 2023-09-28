@@ -51,7 +51,7 @@ console.log(minMax(nums));
 
 //Execution Context is something behind the scenes
 
-// why any js is ran a special env is created 
+// when any js is ran a special env is created 
 // this involves the transformation and execution of code
 //two contexts => global and function execution context
 
